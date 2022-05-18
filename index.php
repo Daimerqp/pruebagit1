@@ -5,6 +5,7 @@
     /////////////////////////////////////////////
     require_once 'controller/user.controller.php';
     require_once 'controller/template.controller.php';
+    print 'soplamindá';
 
     /////////////////////////////////////////////
     //                   MODEL                 //
